@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href=#><img src="github-user-contribution.svg"></a>
+<p align="center"> 
+  Visitor count<br>
+
+</p>
+
